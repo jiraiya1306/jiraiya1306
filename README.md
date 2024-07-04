@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hello, I'm Dhruv Mittal!
 
-<!--
-**jiraiya1306/jiraiya1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech student at IIT Kanpur, specializing in Mathematics and Scientific Computing. My passion for technology and problem-solving drives me to constantly learn and grow in the field of computer science.
 
-Here are some ideas to get you started:
+🔍 About Me
+🏫 Education: B.Tech in Mathematics and Scientific Computing, IIT Kanpur
+🧠 Interests: Advanced Algorithms and Data Structures, Machine Learning, Artificial Intelligence, Data Science
+💻 Languages: C++, Python, HTML, CSS, JavaScript
+🎯 Focus: Combining theoretical knowledge with practical skills to solve complex problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect with Me
+LinkedIn
+Twitter
+Email
+
+
+🚀 Projects
+Project 1: Coming Soon...
+Project 2: Coming Soon...
+
+💡 My LeetCode Profile
+Check out my LeetCode profile to see the problems I've tackled and my progress in mastering algorithms and data structures.
+
+⚡ Fun Fact
+I love Naruto! 🍥 Believe it!
+
+
+Feel free to reach out if you want to collaborate on a project or just chat about tech and anime!
+
+Dhruv Mittal
+
