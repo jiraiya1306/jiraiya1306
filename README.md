@@ -1,7 +1,7 @@
 👋 Hello, I'm Dhruv Mittal!
 
 ## 🔍 About Me
-🏫 **Education**: B.Tech in Mathematics and Scientific Computing, at [IIT Kanpur](https://www.iitk.ac.in/)  
+🏫 **Education**: BS in Mathematics and Scientific Computing, at [IIT Kanpur](https://www.iitk.ac.in/)  
 🧠 **Interests**: Advanced Algorithms and Data Structures, Machine Learning, Artificial Intelligence, Data Science  
 🎯 **Focus**: Combining theoretical knowledge with practical skills to solve complex problems.
 
