@@ -11,8 +11,8 @@
 
 ## 📚 Projects
 - **Economic and Financial Signal Analysis of Terror Activity**: Developed Python scripts for data analysis and identified suspicious events in the Indian stock market.
-- **Cross Connection PUF**: Developed a linear model for COCO-PUF with 99.04% accuracy for secure authentication systems.
-- **[Intro to Quantitative Trading](https://github.com/yourusername/project1)**: Implemented trading strategies and dynamic trailing stop loss mechanism in Python.
+- **[Cross Connection PUF](https://github.com/jiraiya1306/Cross-Connection-PUF)**: Developed a linear model for COCO-PUF with 99.04% accuracy for secure authentication systems.
+- **[Intro to Quantitative Trading](https://github.com/jiraiya1306/Intro-to-Quantitative-Trading)**: Implemented trading strategies and dynamic trailing stop loss mechanism in Python.
 
 ## 💡 LeetCode Profile 
 [![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=mdhruv22&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
